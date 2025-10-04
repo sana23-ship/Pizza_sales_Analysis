@@ -1,9 +1,11 @@
 🍕 Pizza Sales Analysis
 
 Project overview
+
 This project involves a comprehensive data analysis of pizza sales to uncover business insights. Using a provided dataset, the analysis aims to understand sales performance, identify key trends, and provide data-driven recommendations to improve business operations and customer satisfaction.
 
 Dataset
+
 The analysis is based on a dataset containing information on pizza orders over a specific period, such as one year. The dataset typically includes the following tables:
 Orders: Includes the order_id along with the date and time of the order.
 Order Details: Contains details for each pizza in an order, such as pizza_id and quantity.
@@ -18,6 +20,7 @@ Sales performance: The "Classic" category often contributes the most to overall 
 Best-sellers: Certain pizzas consistently rank as top sellers, while others perform poorly.
 
 Technologies and tools
+
 This section lists the software and libraries used in the project.
 Database: MySQL, SQL Server, etc.
 Analysis and Visualization: Excel, Python (Pandas, Matplotlib, Seaborn), etc.
